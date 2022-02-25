@@ -1,5 +1,5 @@
 # SpAlgo
 
-My First Library
+Special Algorithms
 <hr>
 
